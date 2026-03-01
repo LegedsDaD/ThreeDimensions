@@ -42,6 +42,11 @@ ThreeDimensions/
 - Python 3.11+
 - pip
 
+### Download From PyPI or CMD or Terminal
+```
+pip install threedimensions
+```
+
 ### Building from Source
 
 1. Clone the repository:
