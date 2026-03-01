@@ -1,6 +1,71 @@
 # ThreeDimensions
 <img width="1024" height="1024" alt="ChatGPT Image Mar 1, 2026, 09_40_22 AM" src="https://github.com/user-attachments/assets/f07c4899-ef07-43af-b00b-03e90cc3af77" />
 
+<p align="center">
+
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=ThreeDimensions+3D+Modeling+Engine;High-Performance+Python+Interface;C%2B%2B+Powered+Core;Professional+3D+Toolkit;Built+for+Creators;pip+install+threedimensions+%F0%9F%9A%80" />
+
+</p>
+
+---
+
+<h1 align="center">⚡ ThreeDimensions</h1>
+
+<h3 align="center">
+A Next-Generation 3D Modeling Engine <br>
+Built with Python + C++ Core
+</h3>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/LegedsDaD/ThreeDimensions?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/forks/LegedsDaD/ThreeDimensions?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/issues/LegedsDaD/ThreeDimensions?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/license/LegedsDaD/ThreeDimensions?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-Interface-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-High%20Performance%20Core-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Engine-3D%20Professional-8A2BE2?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/github/repo-size/LegedsDaD/ThreeDimensions?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/LegedsDaD/ThreeDimensions?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LegedsDaD/ThreeDimensions?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🌠 Vision
+
+ThreeDimensions is designed to deliver **professional-grade 3D modeling tools**
+with the performance of C++ and the flexibility of Python —
+empowering developers, creators, and engine builders.
+
+---
+
+## ⚙️ Core Philosophy
+
+- 🔷 High Performance Rendering Core (C++)
+- 🔷 Pythonic Modeling API
+- 🔷 Modular Tool Architecture
+- 🔷 Production-Ready Design
+- 🔷 Cross-Platform Engine Structure
+
+---
+
+<p align="center">
+✨ Engineered for Power • Designed for Precision • Built for the Future ✨
+</p>
+
+
+
 **Professional 3D Modeling Engine & SDK**
 
 ThreeDimensions is a high-performance, hybrid C++20/Python 3D modeling library designed to provide a complete toolset comparable to Blender's modeling capabilities. It features a modern C++ core for heavy lifting and a flexible Python SDK for scripting and tool development.
