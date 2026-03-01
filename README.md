@@ -26,6 +26,10 @@ ThreeDimensions/
 ├── cpp_core/           # C++20 Core Engine
 ├── python/             # Python SDK
 ├── examples/           # Usage examples (chair.py, baseball_bat.py)
+├── LICENSE
+├── Manual.md
+├── CMakeLists.txt
+├── README.md
 ```
 
 ## Build Instructions
