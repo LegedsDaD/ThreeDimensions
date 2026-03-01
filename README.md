@@ -26,8 +26,6 @@ ThreeDimensions/
 ├── cpp_core/           # C++20 Core Engine
 ├── python/             # Python SDK
 ├── examples/           # Usage examples (chair.py, baseball_bat.py)
-├── docs/               # Documentation
-└── tests/              # Unit tests
 ```
 
 ## Build Instructions
@@ -56,7 +54,7 @@ ThreeDimensions/
 
 ## Usage
 
-See [docs/manual.md](docs/manual.md) for detailed documentation.
+See [manual.md](https://github.com/LegedsDaD/ThreeDimensions/blob/main/Manual.md) for detailed documentation.
 
 ```python
 import threedimensions as td
