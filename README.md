@@ -1,4 +1,5 @@
 # ThreeDimensions
+<img width="1024" height="1024" alt="ChatGPT Image Mar 1, 2026, 09_40_22 AM" src="https://github.com/user-attachments/assets/f07c4899-ef07-43af-b00b-03e90cc3af77" />
 
 **Professional 3D Modeling Engine & SDK**
 
