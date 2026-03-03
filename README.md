@@ -1,4 +1,8 @@
 # ThreeDimensions
+## Send your creations using ThreeDimensions in [Models](https://github.com/LegedsDaD/Models) by filling in the [Form](https://forms.gle/Z8WpocwLCv92MZU17). The best models will be added to the examples of ThreeDimensions. Others will be added to the models groups. See current submissions in [Submissions](https://github.com/LegedsDaD/Models/blob/main/README.md). Do participate !
+
+---
+
 <img width="1024" height="1024" alt="ChatGPT Image Mar 1, 2026, 09_40_22 AM" src="https://github.com/user-attachments/assets/f07c4899-ef07-43af-b00b-03e90cc3af77" />
 
 <p align="center">
@@ -9,9 +13,6 @@
 </p>
 
 ---
-
-
-## Send your creations using ThreeDimensions in [Models](https://github.com/LegedsDaD/Models) by filling in the [Form](https://forms.gle/Z8WpocwLCv92MZU17). The best models will be added to the examples of ThreeDimensions. Others will be added to the models groups. See current submissions in [Submissions](https://github.com/LegedsDaD/Models/blob/main/README.md). Do participate !
 
 <h1 align="center">⚡ ThreeDimensions</h1>
 
