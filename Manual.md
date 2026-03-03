@@ -24,6 +24,11 @@ ThreeDimensions is a hybrid C++/Python library.
 - C++20 Compiler (Optional, but recommended for performance)
 - CMake 3.15+ (Optional)
 
+### Install via PyPi or CMD
+```bash
+pip install threedimensions
+```
+
 ### Installing via pip
 
 ```bash
