@@ -104,6 +104,16 @@ ThreeDimensions/
 
 ## Build Instructions
 
+### Download From PyPI or CMD or Terminal
+For Installing version- 0.1.0
+```bash
+pip install threedimensions==0.1.0
+
+```
+For installing version- 1.1.1
+```bash
+pip install threedimensions==1.1.1
+```
 ### Prerequisites
 
 - CMake 3.15+
@@ -111,10 +121,6 @@ ThreeDimensions/
 - Python 3.11+
 - pip
 
-### Download From PyPI or CMD or Terminal
-```
-pip install threedimensions
-```
 
 ### Building from Source
 
@@ -133,7 +139,9 @@ pip install threedimensions
 
 ## Usage
 
-See [manual.md](https://github.com/LegedsDaD/ThreeDimensions/blob/main/Manual.md) for detailed documentation.
+**See [manual.md](https://github.com/LegedsDaD/ThreeDimensions/blob/main/Manual.md) for detailed documentation of version- 0.1.0**
+
+**See [manual.md](https://github.com/LegedsDaD/ThreeDimensions-v1.1.1/blob/main/Manual.md) for detailed documentation of version- 1.1.1**
 
 ```python
 import threedimensions as td
@@ -145,7 +153,10 @@ bat.save("bat.obj")
 
 ## Authors
 
-- **LegedsDaD** (legendsdad001@gmail.com)
+- **LegedsDaD**
+
+## E-Mail
+legendsdad001@gmail.com
 
 ## License
 
