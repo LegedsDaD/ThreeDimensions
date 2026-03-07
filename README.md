@@ -46,28 +46,11 @@ Built with Python + C++ Core
 
 ---
 
-## 🌠 Vision
-
-ThreeDimensions is designed to deliver **professional-grade 3D modeling tools**
-with the performance of C++ and the flexibility of Python —
-empowering developers, creators, and engine builders.
-
----
-
-## ⚙️ Core Philosophy
-
-- 🔷 High Performance Rendering Core (C++)
-- 🔷 Pythonic Modeling API
-- 🔷 Modular Tool Architecture
-- 🔷 Production-Ready Design
-- 🔷 Cross-Platform Engine Structure
-
----
-
 <p align="center">
 ✨ Engineered for Power • Designed for Precision • Built for the Future ✨
 </p>
 
+---
 
 
 **Professional 3D Modeling Engine & SDK**
@@ -101,6 +84,8 @@ ThreeDimensions/
 ├── README.md
 ├── pyproject.toml
 ```
+
+Check out [Releases](https://github.com/LegedsDaD/ThreeDimensions/releases) for latest version information.
 
 ## Build Instructions
 
