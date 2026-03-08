@@ -97,7 +97,7 @@ pip install threedimensions==0.1.0
 ```
 For installing version- 1.1.1
 ```bash
-pip install threedimensions==1.1.1
+pip install threedimensions==1.0.0
 ```
 ### Prerequisites
 
