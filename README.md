@@ -126,7 +126,7 @@ pip install threedimensions==1.1.1
 
 **See [manual.md](https://github.com/LegedsDaD/ThreeDimensions/blob/main/Manual.md) for detailed documentation of version- 0.1.0**
 
-**See [manual.md](https://github.com/LegedsDaD/ThreeDimensions-v1.1.1/blob/main/Manual.md) for detailed documentation of version- 1.1.1**
+**See [manual.md](https://github.com/LegedsDaD/ThreeDimensions-v1.0.0/blob/main/Manual.md) for detailed documentation of version- 1.1.1**
 
 ```python
 import threedimensions as td
