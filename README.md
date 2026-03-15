@@ -1,4 +1,5 @@
 # ThreeDimensions
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/threedimensions?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/threedimensions)
 ## Send your creations using ThreeDimensions in  [Models](https://github.com/LegedsDaD/Models) by filling in the [Form](https://forms.gle/Z8WpocwLCv92MZU17). The best models will be added to the examples of ThreeDimensions. Others will be added to the models groups. See current submissions in [Submissions](https://github.com/LegedsDaD/Models/blob/main/README.md). Do participate !
 
 ---
